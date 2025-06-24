@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **skkad/skkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ challenges and delivering high-quality, user-focused solutions.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on React and Django based Project  
   
@@ -54,11 +54,11 @@ challenges and delivering high-quality, user-focused solutions.
 - ⚡ Fun fact: I use Tab insted of Space    
 
 
-</td><td valign="top" width="50%">
+</td>
 
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
